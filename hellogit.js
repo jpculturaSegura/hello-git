@@ -1,3 +1,1 @@
-console.log("Hola")
-console.log("Como vas con Git?")
-console.log("Cambié de Usuario")
+console.log("Ahora estoy editando el fichero")
